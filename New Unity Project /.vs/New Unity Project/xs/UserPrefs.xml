@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelComplete.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerCollision.cs" Line="12" Column="54" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="30" Column="32" />
+      <File FileName="Assets/EndTrigger.cs" Line="6" Column="5" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="13" Column="9" />
+      <File FileName="Assets/Scripts/LevelComplete.cs" Line="6" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
